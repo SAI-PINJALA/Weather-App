@@ -1,2 +1,2 @@
-# Whether-App
+# Weather-App
 Weather report
